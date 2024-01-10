@@ -16,6 +16,12 @@
   <img src="https://github.com/osama-saeed1/Sales-Analysis/assets/155672898/839e3cff-8fdf-4c4a-9975-0731ac195ce1" height="400">
 </p>
 
+## Data Model
+
+<p align="center">
+  <img src="https://github.com/osama-saeed1/Sales-Analysis/assets/155672898/c4120bc4-dd15-4778-91d0-e61ead0b5073" width="300">
+</p>
+
 ### Data Analysis Using SQL In MySQL Workbench
 
 1. sql database file can be found as db_dump_version_2.sql
