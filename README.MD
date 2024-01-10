@@ -4,9 +4,17 @@
 
 ### This project was originally put together by https://www.codebasics.io/ 
 
-https://github.com/osama-saeed1/Sales-Analysis/assets/155672898/90a0fbad-031c-4723-bb0c-13532f0db32b
+## Profit Analysis
 
-https://github.com/osama-saeed1/Sales-Analysis/assets/155672898/839e3cff-8fdf-4c4a-9975-0731ac195ce1
+<p align="center">
+  <img src="https://github.com/osama-saeed1/Sales-Analysis/assets/155672898/90a0fbad-031c-4723-bb0c-13532f0db32b" height="400">
+</p>
+
+## Key Insights
+
+<p align="center">
+  <img src="https://github.com/osama-saeed1/Sales-Analysis/assets/155672898/839e3cff-8fdf-4c4a-9975-0731ac195ce1" width="300">
+</p>
 
 ### Data Analysis Using SQL In MySQL Workbench
 
@@ -16,5 +24,3 @@ https://github.com/osama-saeed1/Sales-Analysis/assets/155672898/839e3cff-8fdf-4c
 
 Data Analysis Using Power BI Desktop Version
 ============================================
-
-
