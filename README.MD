@@ -13,7 +13,7 @@
 ## Key Insights
 
 <p align="center">
-  <img src="https://github.com/osama-saeed1/Sales-Analysis/assets/155672898/839e3cff-8fdf-4c4a-9975-0731ac195ce1" width="300">
+  <img src="https://github.com/osama-saeed1/Sales-Analysis/assets/155672898/839e3cff-8fdf-4c4a-9975-0731ac195ce1" height="400">
 </p>
 
 ### Data Analysis Using SQL In MySQL Workbench
